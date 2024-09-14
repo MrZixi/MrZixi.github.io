@@ -24,33 +24,51 @@ My research interest includes singing&speech voice synthesis, neural machine tra
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Our paper get accepted by EMNLP 2024. 
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Diffsinger: Singing voice synthesis via shallow diffusion mechanism](https://cdn.aaai.org/ojs/21350/21350-13-25363-1-2-20220628.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Jinglin Liu*, **Chengxi Li***, Yi Ren, Feiyang Chen, Zhou Zhao
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='images/nsvb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[Learning the beauty in songs: Neural singing voice beautifier](https://aclanthology.org/2022.acl-long.549.pdf)
 
+Jinglin Liu, **Chengxi Li**, Yi Ren, Zhiying Zhu, Zhou Zhao
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/ltag.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Translate the beauty in songs: Jointly learning to align melody and translate](https://aclanthology.org/2023.findings-emnlp.3.pdf)
+
+**Chengxi Li**, Kai Fan, Jiajun Bu, Boxing Chen, Zhongqiang Huang, Zhi Yu
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/mario.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[MARIO: MAth Reasoning with code Interpreter Output--A Reproducible Pipeline](https://aclanthology.org/2024.findings-acl.53.pdf)
+
+Minpeng Liao, Wei Luo, **Chengxi Li**, Jing Wu, Kai Fan
+
+# 📝 Recent Publications 
+[Filling conversation ellipsis for better social dialog understanding](https://cdn.aaai.org/ojs/6505/6505-13-9730-1-10-20200517.pdf), **AAAI 2020**
+[AlphaMath Almost Zero: process Supervision without process](), under review
+[Step-level Value Preference Optimization for Mathematical Reasoning](), under review
+
+Xiyuan Zhang, **Chengxi Li**, Dian Yu, Samuel Davidson, Zhou Yu
 # 🎖 Honors and Awards
-- *2023.04*
-- *2021.10* 
-- *2021.09* 
+- *2023.04* Outstanding Graduate of Zhejiang Province
+- *2023.04* Outstanding Graduate of ZJU
 
 # 📖 Educations
-- *2020.09 - 2023.04 (now)*, Computer Schience & Technology, Master's degree. 
+- *2020.09 - 2023.04*, Computer Schience & Technology, Master's degree. 
 - *2016.09 - 2020.06*, Computer Schience & Technology (CKC Honor College) Bachelor's degree. 
 
-# 💬 Invited Talks
-
+# Service
+Paper Reviewer: 
 
 # 💻 Internships
 - *2020.08 - 2023.04*, DAMO Research, Alibaba, China.
